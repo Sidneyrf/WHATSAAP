@@ -1,0 +1,8 @@
+{
+  "name": "chat-funnel",
+  "version": "1.0.0",
+  "description": "Chat Funnel - WhatsApp Style",
+  "scripts": {
+    "build": "echo 'Static files ready'"
+  }
+}
